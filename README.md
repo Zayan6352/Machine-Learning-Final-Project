@@ -1,4 +1,4 @@
-# MAchine-Learning-final-project-Diabetes-Diagnosis
+# Machine-Learning-final-project-Diabetes-Diagnosis
 
 ## Overview
 
